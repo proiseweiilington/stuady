@@ -23,8 +23,8 @@ sra="http://g.huceo.com/weixin/qw/jquery.min.js"></script>
   
         var dataForWeixin = {
               appId: "gh_ff79a97cd7f3",
-              TLImg: "http://g.huceo.com/weixin/zhua/logp.jpg",
-              url: "http://g,huceo.com/weixin/zhua/",
+              TLImg: "http://g.huceo.com/weixin/zu/logo.jpg",
+              url: "http://g,huceo.com/weixin/zu/",
               title: "Classic  game <Catch it!>,please share your friends!   Cirele
 friends wechat!",
               desc: "please share your friends! Cirele  friends wechat!"
